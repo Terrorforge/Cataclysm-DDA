@@ -61,7 +61,7 @@
   {
     "type": "AMMO",
     "id": "permanent_ink",
-    "name": { "str_sp": "permanent ink" },
+    "name": { "str_sp": "permanent pink" },
     "symbol": "~",
     "description": "Ink comprised of a main carrier solvent, a glyceride, a pyrrolidone, a resin, and a colorant, making it water resistant.",
     "volume": "1 ml",
